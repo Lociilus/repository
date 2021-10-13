@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Menu 
 {
 	public void start() {
-		
+	}
 		private Scanner kbdInput = new Scanner(System.in);
 		private Calculator myCalc = new Calculator();
 		private DisplayResults myDisplay = new DisplayResults();
