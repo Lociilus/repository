@@ -1,7 +1,7 @@
 
 public class DisplayResults 
 {
-	public void start()
+	// public void start()
 	{
 		
 	}
