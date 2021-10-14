@@ -7,22 +7,22 @@ public class MainClass
 		 int menuSelection = myMenu.showMenu();
 		
 		if (menuSelection == 1) {
-			//do something 
+			double addition  
 		}
 		else if (menu selection == 2) {
-			//do something 
+			double subtraction  
 		}
 		else if (menu selection == 3) {
-			//do something 
+			double multiplication 
 		}
 		else if (menu selection == 4) {
-			//do somehting 
+			double division  
 		}
 		else if (menu selection == 5) {
 			//do something 
 		}
 		else if (menu selection == 6) {
-			//do something 
+			
 		}
 		 
 		 System.out.println("\nProgram terminates.");
